@@ -2,5 +2,6 @@
 Codigo TEST
 
 Poner en marcha
-npm install
+
+npm install <br>
 npm run test
